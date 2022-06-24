@@ -1,7 +1,6 @@
 -- Start
 declare
  
-
 x number(5);            
 y number(5);           
 z number(7);       
